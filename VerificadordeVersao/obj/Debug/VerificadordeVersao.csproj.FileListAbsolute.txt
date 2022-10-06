@@ -1,0 +1,7 @@
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\bin\Debug\VerificadordeVersao.exe.config
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\bin\Debug\VerificadordeVersao.exe
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\bin\Debug\VerificadordeVersao.pdb
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\obj\Debug\VerificadordeVersao.csproj.AssemblyReference.cache
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\obj\Debug\VerificadordeVersao.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\obj\Debug\VerificadordeVersao.exe
+C:\Users\gabriel.silva\source\repos\VerificadordeVersao\VerificadordeVersao\obj\Debug\VerificadordeVersao.pdb
